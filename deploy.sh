@@ -1,1 +1,1 @@
-rsync -ave ssh calculator/build/*  webfaction:~/webapps/bus_lanes --delete
+rsync -ave ssh calc/build/*  webfaction:~/webapps/bus_lanes --delete
